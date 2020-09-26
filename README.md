@@ -1,2 +1,2 @@
 # Study-Projects
-Source code of some courses
+此库存放一些平时学习的课程的源代码，方便以后想要复习或参考的时候下下来看看。
